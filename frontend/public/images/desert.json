@@ -1,0 +1,34 @@
+{ "compressionlevel":-1,
+ "height":20,
+ "infinite":false,
+ "layers":[
+        {
+         "compression":"zlib",
+         "data":"eJztlUsOgCAMRHsKEnXjN\/EbvP\/pZOOmkQLlJ8bFCytwOjOCAABRCOcLNHCpFHUgmgj6OkUfiCFC1re+UbEymSz1SQ\/\/fGbXnWHSc6KV8m8H+y7hzh6eM1L\/r65\/1Lds90hmpqn06TpIacZeLvDc+Y04g7PHJd+U97VrviW\/Jbk8+\/V9n5lB6Kzx3ddagGfI7aPJ49wauPpcszBxAYnmTpc=",
+         "encoding":"base64",
+         "height":20,
+         "id":1,
+         "name":"Tile Layer 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":40,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":2,
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.10.2",
+ "tileheight":32,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"..\/..\/..\/..\/..\/tmw_desert_spacing.tsx"
+        }],
+ "tilewidth":32,
+ "type":"map",
+ "version":"1.10",
+ "width":40
+}
